@@ -18,7 +18,7 @@ I am a third year PhD candidate and an [NDSEG Fellow](https://ndseg.org/) at UC 
 
 My research interests are in parallel and concurrent programming, specifically how multi-core and distributed systems are implemented. My current work focuses on GPU memory models, designing and evaluating techniques to test the conformance of compilers and hardware to specifications. I am also working on ways to exploit weak memory behaviors to increase applications' performance, and to test and improve the safety properties of GPU programming models in the face of data races or other undefined behavior.
 
-For a demo of our work on testing GPU memory models, check out our memory model testing website [GPUHarbor](https://gpuharbor.ucsc.edu/webgpu-mem-testing), which is implemented using the WebGPU framework. If you want to contribute to our research, head to the [Tune/Conform](https://gpuharbor.ucsc.edu/webgpu-mem-testing/tuning/) page and follow the instructions there to run tests and submit experimental data about your GPU's memory model behavior.
+For a demo of our work on testing GPU memory models, check out our testing website [GPUHarbor](https://gpuharbor.ucsc.edu/webgpu-mem-testing), which is implemented using the WebGPU framework. If you want to contribute to our research, head to the [Tune/Conform](https://gpuharbor.ucsc.edu/webgpu-mem-testing/tuning/) page and follow the instructions there to run tests and submit experimental data about your GPU's shared memory behaviors.
 
 ## News
 * Our experience paper on running a large scale GPU memory model study, nicknamed [GPUHarbor](assets/pdf/gpuharbor.pdf), was accepted to [ISSTA 2023](https://conf.researchr.org/home/issta-2023) [April 2023].
