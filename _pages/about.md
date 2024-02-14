@@ -21,6 +21,9 @@ My research interests are in parallel and concurrent programming, specifically h
 For a demo of our work on testing GPU memory models, check out our testing website [GPUHarbor](https://gpuharbor.ucsc.edu/webgpu-mem-testing), which is implemented using the WebGPU framework. If you want to contribute to our research, head to the [Tune/Conform](https://gpuharbor.ucsc.edu/webgpu-mem-testing/tuning/) page and follow the instructions there to run tests and submit experimental data about your GPU's shared memory behaviors.
 
 ## News
+* I presented our work on testing the Vulkan memory model at [Vulkanised 2024](https://vulkan.org/events/vulkanised-2024).
+* I gave a talk on evolving weak memory models for evolving architectures at the [Future of Weak Memory](https://popl24.sigplan.org/home/fowm-2024) workshop at POPL 2024.
+* I presented our work on testing memory consistency at Imperial College London, University of Kent, Cambridge University, and Bristol University [January 2024].
 * I returned for another summer internship at Apple on their GPU Platform Architecture team [June-September 2023].
 * I presented GPUHarbor at ISSTA 2023, where it won a _Distinguished Artifact Award_ [June 2023].
 * Our experience paper on running a large scale GPU memory model study, nicknamed [GPUHarbor](assets/pdf/gpuharbor.pdf), was accepted to [ISSTA 2023](https://conf.researchr.org/home/issta-2023) [April 2023].
